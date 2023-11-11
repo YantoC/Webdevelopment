@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    width: 95%;
+    font-family: Verdana;
+}
+/*  Header  */
+.Nature {
+    background-image: url("../Images/header.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+}
+#Titel{
+    padding-top: 5px;
+    padding-left: 5px;
+    color: white;
+    font-size: 2.5em;
+}
+/*  Nav    */
+nav{
+    background-color: #454445;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+nav > a {
+    color: #54F181;
+    text-decoration: unset;
+}
+/*  Article   */
+Section > Article > Header > h1{
+    text-decoration: underline;
+    color: #454445;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin: 5px;
+    font-size: 25px;
+}
+Article{
+    padding-left: 5px;
+    padding-bottom: 5px;
+    background-color: lightgray;
+}
+/*  Footer  */
+footer{
+    margin-top: 5px;
+}
