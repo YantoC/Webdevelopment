@@ -1,0 +1,82 @@
+/*  Algemeen    */
+body{
+    width: 95%;
+    font-size: 1.2em;
+    font-family: Verdana, sans-serif;
+    margin: auto;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 130%;
+}
+h1, h2{
+    color: #007e7e;
+}
+footer{
+    font-size: 0.6em;
+    clear: both;
+    text-align: center;
+}
+header {
+    display: block;
+    text-align: center;
+}
+a{
+    color: #2B2D42;
+}
+
+/*  zijkant */
+.zijkant{
+    border: 2px solid #007e7e;
+    width: 25%;
+    float: right;
+    text-align: center;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+}
+.zijkant > p > a:hover{
+    background-color: brown;
+}
+.zijkant h1{
+    color: black;
+   padding-top: 30px;
+}
+.zijkant h2{
+    color: hotpink;
+}
+#week1{
+    color: #84A98C;
+}
+#week2{
+    color: #52796F;
+}
+#week3{
+    color: #354F52;
+}
+.zijkant p{
+    padding: 5px;
+}
+
+
+/*  Article zelf    */
+section{
+    width: 70%;
+    float: left;
+}
+#guarantee{
+    margin: 30px;
+    padding-left: 80px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 5px dotted white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+    background-image: url("../images/background.gif");
+    background-repeat: no-repeat;
+    background-position:  left top;
+
+}
