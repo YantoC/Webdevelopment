@@ -1,0 +1,22 @@
+main{
+    width: 90%;
+    margin: auto;
+    font-size: 1.25em;
+}
+article{
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+/*  Hier moet het tussen zitten */
+article:nth-child(odd) img{
+    float: left;
+    margin-right: 10px;
+    box-sizing: content-box;
+}
+article:nth-child(even) img{
+    float: right;
+    margin-left: 10px;
+    box-sizing: content-box;
+}
