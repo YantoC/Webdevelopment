@@ -1,0 +1,10 @@
+.row div{
+    background-color: lightgrey;
+    height: 150px;
+    border: white 5px solid;
+}
+
+.row div:nth-child(even){
+    background-color: darkgray;
+}
+
