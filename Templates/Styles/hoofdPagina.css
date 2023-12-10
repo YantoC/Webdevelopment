@@ -1,0 +1,45 @@
+body{
+    background-color: #1D1E2C;
+}
+a{
+    color: #59656F;
+}
+h1{
+    text-align: center;
+    background-color: #B2ABBF;
+    margin: 40px 30% 10px 30%;
+    border: 1px #B2ABBF solid;
+    border-radius: 10px;
+}
+h3{
+
+}
+ul{
+    list-style: none;
+}
+li{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    gap: 10px;
+}
+.container .block{
+    background-color: #F7EBEC;
+
+    padding:20px;
+    font-size: 1em;
+    font-weight:bold;
+    text-align:center;
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+}
+@media screen and (min-width: 320px){
+
+}
