@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 01/op1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 01/op1/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 01/op1/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 03/op3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 03/op3/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 03/op3/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 04/op4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 04/op4/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 04/op4/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 06+kopieer/op6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 06+kopieer/op6/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht 06+kopieer/op6/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht Arrays/arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht Arrays/arrays/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht Arrays/arrays/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht substring/substring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht substring/substring/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/Opdracht substring/substring/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_13/labo_13_Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemplateJavascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemplateJavascript/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemplateJavascript/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708747888864</updated>
-      <workItem from="1708747890200" duration="8380000" />
+      <workItem from="1708747890200" duration="8551000" />
     </task>
     <servers />
   </component>
