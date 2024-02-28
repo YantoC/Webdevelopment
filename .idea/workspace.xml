@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +35,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2cnWadOR1m53d9yFCsNc325KB8N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_13",
+    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_14/opColorPicker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\opColorPicker" />
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\op1" />
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13\Opdracht substring" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13\Opdracht 06+kopieer" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13\Opdracht 04" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13\Opdracht 03" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +78,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708747888864</updated>
-      <workItem from="1708747890200" duration="8551000" />
+      <workItem from="1708747890200" duration="8595000" />
+      <workItem from="1708764282055" duration="183000" />
+      <workItem from="1709127778040" duration="7351000" />
     </task>
     <servers />
   </component>
