@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/OpdrachtPara/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/op1-2-3/demo_slider/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.labo_13_Index.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_14/opColorPicker",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.labo_13_Index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_14/opColorPicker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\opColorPicker" />
@@ -81,6 +72,7 @@
       <workItem from="1708747890200" duration="8595000" />
       <workItem from="1708764282055" duration="183000" />
       <workItem from="1709127778040" duration="7351000" />
+      <workItem from="1709136958172" duration="364000" />
     </task>
     <servers />
   </component>
