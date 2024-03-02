@@ -11,35 +11,47 @@ h1{
     border: 1px #B2ABBF solid;
     border-radius: 10px;
 }
-h3{
 
-}
 ul{
-    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 25px;
 }
 li{
     text-align: center;
+    list-style: none;
+    display: list-item;
+
+    margin-bottom: 5px;
 }
-
-.container{
-    display: grid;
-    grid-template-columns: repeat(4,auto);
-    gap: 10px;
-}
-.container .block{
-    background-color: #F7EBEC;
-
-    padding:20px;
-    font-size: 1em;
-    font-weight:bold;
-    text-align:center;
-}
-
-
 footer{
     color: white;
     text-align: center;
 }
-@media screen and (min-width: 320px){
+/*  Flex box    */
+.title{
+    font-size: 1em;
+    font-weight:bold;
+    text-align:center;
 
+    padding: 1em;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    /*gap: 1.5em;*/
+}
+.block{
+    background-color: #F7EBEC;
+
+    flex-direction: column;
+    text-align: center;
+    flex-grow: 1;
+
+    margin: 1em;
+
+    border: #F7EBEC solid 1px;
+    border-radius: 25px;
 }

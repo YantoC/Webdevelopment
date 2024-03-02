@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/Styles/hoofdPagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Styles/hoofdPagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -73,6 +78,7 @@
       <workItem from="1708764282055" duration="183000" />
       <workItem from="1709127778040" duration="7351000" />
       <workItem from="1709136958172" duration="364000" />
+      <workItem from="1709401991626" duration="6847000" />
     </task>
     <servers />
   </component>
