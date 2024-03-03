@@ -1,45 +1,34 @@
 const setup = () => {
-
 	let sliders = document.getElementsByClassName("slider");
-	let colorDemos=document.getElementsByClassName("colorDemo")
-	let numbers = document.getElementsByClassName("numbers")
-
 	// we moeten zowel op het input als het change event reageren,
 	// zie http://stackoverflow.com/questions/18544890
-	sliders[0].addEventListener("change", update);
-	sliders[0].addEventListener("input", update);
 
-	sliders[1].addEventListener("change", update);
-	sliders[1].addEventListener("input", update);
+	for (let i = 0; i < sliders.length; i++) {
+		sliders[i].addEventListener("change", update);
+		sliders[i].addEventListener("input", update);
+	}
 
-	sliders[2].addEventListener("change", update);
-	sliders[2].addEventListener("input", update);
-
-	colorDemos[0].style.backgroundColor= "rgb("+ 128 + "," + 255 + "," + 128 + ") ";
+	// maak het blokje rood
+	update();
 }
 
 const update = () => {
+	let colorDemos= document.getElementsByClassName("colorDemo");
 	let sliders = document.getElementsByClassName("slider");
-	let value0 = sliders[0].value;
-	let value1 = sliders[1].value;
-	let value2 = sliders[2].value;
+	let valueRed = parseInt(sliders[0].value);
+	let valueGreen = parseInt(sliders[1].value);
+	let valueBlue = parseInt(sliders[2].value);
+	let test = 10;
+	let red = document.getElementById("red");
+	let green = document.getElementById("green");
+	let blue = document.getElementById("blue");
 
-	let colorDemos=document.getElementsByClassName("colorDemo")
-	let numbers = document.getElementsByClassName("numbers")
-
-	colorDemos[0].style.backgroundColor= "rgb("+ value0 + "," + value1 + "," + value2 + ") ";
-
-	numbers[0].textContent = value0
-	numbers[1].textContent  = value1
-	numbers[2].textContent  = value2
+	red.innerText = valueRed;
+	green.innerText = valueGreen;
+	blue.innerText = valueBlue;
 
 
-	console.log("de waarde van de slider is momenteel : " + value0 + "," + value1 + "," + value2);
+	colorDemos[0].style.backgroundColor = "rgb(" + valueRed + "," + valueGreen + ", " + valueBlue + ")";
 }
-// dit is de eerste regel code die uitgevoerd wordt,
-// de bovenstaande functie declaraties introduceren
-// enkel de functies en voeren ze niet uit natuurlijk.
-//
-// Onderstaande zorgt ervoor dat de setup functie wordt
-// uitgevoerd zodra de DOM-tree klaar is.
+
 window.addEventListener("load", setup);

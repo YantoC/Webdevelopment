@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/Styles/hoofdPagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/Styles/hoofdPagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <workItem from="1708764282055" duration="183000" />
       <workItem from="1709127778040" duration="7351000" />
       <workItem from="1709136958172" duration="364000" />
-      <workItem from="1709401991626" duration="6847000" />
+      <workItem from="1709401991626" duration="7770000" />
     </task>
     <servers />
   </component>
