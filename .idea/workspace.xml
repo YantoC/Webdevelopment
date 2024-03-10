@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/formulierElementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_14/opColorPicker/colorPicker/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,31 +53,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.labo_13_Index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_14/opColorPicker&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.formulierElementen.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.labo_13_Index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_15",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_15" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\opColorPicker" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\op1" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13\Opdracht substring" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -79,7 +93,11 @@
       <workItem from="1708764282055" duration="183000" />
       <workItem from="1709127778040" duration="7351000" />
       <workItem from="1709136958172" duration="364000" />
-      <workItem from="1709401991626" duration="7770000" />
+      <workItem from="1709401991626" duration="7832000" />
+      <workItem from="1709459505888" duration="49000" />
+      <workItem from="1709459565694" duration="37000" />
+      <workItem from="1709557524131" duration="104000" />
+      <workItem from="1709994728584" duration="7163000" />
     </task>
     <servers />
   </component>
