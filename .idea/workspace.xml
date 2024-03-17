@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/formulierElementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opInvul/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opManVanAn/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSoorten/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesMetFunctie/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_15/opSpatiesOpConsole/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opDeEnHet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opDeEnHet/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opFormValidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opFormValidatie/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opFormValidatie/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opFormwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opFormwaarden/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opGemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opGemeenten/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opTrigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_16/opTrigrams/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,23 +57,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_15",
+    "last_opened_file_path": "C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_16",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_16" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_15" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\opColorPicker" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14\op1" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_14" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_13" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +92,8 @@
       <workItem from="1709459505888" duration="49000" />
       <workItem from="1709459565694" duration="37000" />
       <workItem from="1709557524131" duration="104000" />
-      <workItem from="1709994728584" duration="7163000" />
+      <workItem from="1709994728584" duration="7365000" />
+      <workItem from="1710337752091" duration="8329000" />
     </task>
     <servers />
   </component>
