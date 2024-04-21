@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/HitanObject/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/images/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_18/Memorie/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opAantalDagen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opAantalDagen/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/scripts/validatie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON1/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON2/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +56,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_18/Memorie/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_19&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,13 +68,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_19" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_18\Memorie\images" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_18" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_17" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_17\op2\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_19" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_18\Memorie\images" />
     </key>
   </component>
@@ -111,6 +103,8 @@
       <workItem from="1711275825518" duration="1296000" />
       <workItem from="1712331491266" duration="3925000" />
       <workItem from="1712335451126" duration="142000" />
+      <workItem from="1713357835014" duration="8337000" />
+      <workItem from="1713686398395" duration="1665000" />
     </task>
     <servers />
   </component>
