@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_19/opAantalDagen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opAantalDagen/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/scripts/validatie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opContactManager/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON1/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_19/opJSON2/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +96,7 @@
       <workItem from="1712335451126" duration="142000" />
       <workItem from="1713357835014" duration="8337000" />
       <workItem from="1713686398395" duration="1665000" />
+      <workItem from="1713704491202" duration="101000" />
     </task>
     <servers />
   </component>
