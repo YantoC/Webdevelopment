@@ -5,6 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7cadbc-a1da-4436-a3c3-f0bf07bb34da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo_20/DemoStorageJson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/DemoStorageJson/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/Start_Colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/Start_Colorpicker/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/Start_Colorpicker/scripts/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/Start_Colorpicker/scripts/swatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/Start_Colorpicker/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 1 globale variabelen/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 1 globale variabelen/op.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 1 globale variabelen/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 2 session storage/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 2 session storage/op.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 2 session storage/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 3 local storage/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 3 local storage/op.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_20/demoStorage/demo 3 local storage/script/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -16,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,12 +58,14 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.formulierElementen.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.htm.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.labo_13_Index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.op.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yanto/Documents/GitHub/Webdevelopment/Labo_20&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,11 +77,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_20" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_19" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_18\Memorie\images" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_18" />
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_17" />
-      <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yanto\Documents\GitHub\Webdevelopment\Labo_19" />
@@ -97,6 +115,8 @@
       <workItem from="1713357835014" duration="8337000" />
       <workItem from="1713686398395" duration="1665000" />
       <workItem from="1713704491202" duration="101000" />
+      <workItem from="1713964565950" duration="6833000" />
+      <workItem from="1714289884188" duration="2518000" />
     </task>
     <servers />
   </component>
